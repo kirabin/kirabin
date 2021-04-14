@@ -29,16 +29,3 @@ I’m currently studying in School 21 and polishing my skills at programming.
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 </p>
-
-### Stats
-<a href="https://www.codewars.com/users/kirabin">
-  <img src="https://www.codewars.com/users/kirabin/badges/large">
-</a>
-
-<!--
-<a href="https://stackexchange.com/users/11774185">
-  <img src="https://stackexchange.com/users/flair/11774185.png?theme=clean" width="208" height="58" alt="profile for kirabin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for kirabin on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
--->
-
-
