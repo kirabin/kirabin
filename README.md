@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## Stats
+[Codewars Profile](https://www.codewars.com/users/kirabin)
+![Codewars Stats](https://www.codewars.com/users/kirabin/badges/large)
+
+
 <!--
 **kirabin/kirabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
