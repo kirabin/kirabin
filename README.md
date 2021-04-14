@@ -35,3 +35,8 @@ I’m currently studying in School 21 and polishing my skills at programming.
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirabin&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=FFA500&icon_color=FFA500&hide_title=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirabin&layout=compact&title_color=FFA500&hide_border=true"/>
+<p>
