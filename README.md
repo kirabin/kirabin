@@ -2,7 +2,7 @@
 
 
 ## Stats
-<a herf="https://www.codewars.com/users/kirabin">
+<a href="https://www.codewars.com/users/kirabin">
   <img src="https://www.codewars.com/users/kirabin/badges/large">
 </a>
 
