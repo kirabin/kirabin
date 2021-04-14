@@ -4,17 +4,17 @@ I’m currently studying in School 21 and polishing my skills at programming.
 
 ### You Can Find Me
 <p>
-  <a href="">
+  <a href="https://github.com/kirabin">
+    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/kirabin_twit">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://t.me/kirabin_tel">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/10603523/kirabin?tab=profile">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kirabin">
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
