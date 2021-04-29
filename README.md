@@ -1,4 +1,5 @@
-## Hi, Traveler
+## Hi, Traveler!
+| (• ◡•)| |❍ᴥ❍ʋ| 
 
 I’m currently studying in School 21 and polishing my skills at programming.
 
