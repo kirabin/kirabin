@@ -35,7 +35,7 @@ I’m studying at School 21 and polishing my programming skills to become an IOS
   </a>
   
   <!--  C++  -->
-  <a href="https://github.com/kirabin?tab=repositories&q=&type=&language=c++" style="cursor: default">
+  <a href="https://github.com/kirabin?tab=repositories&q=&type=&language=c%2B%2B" style="cursor: default">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
   
